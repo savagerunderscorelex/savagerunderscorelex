@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savagerunderscorelex
 - 👀 I’m interested in learning web development and game development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and computer science/programming fundementals.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and computer science/programming fundamentals.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a lot of other hobbies as well! I like to draw, write, read, crochet, sew, learn languages, and watch TV shows. 
 
