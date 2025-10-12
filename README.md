@@ -1,8 +1,12 @@
+# Hello!
 - 👋 Hi, I’m @savagerunderscorelex
 - 👀 I’m interested in learning web development and game development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and computer science/programming fundamentals.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a lot of other hobbies as well! I like to draw, write, read, crochet, sew, learn languages, and watch TV shows. 
+
+## Hackatime Stats
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=3185&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!---
 savagerunderscorelex/savagerunderscorelex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
